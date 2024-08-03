@@ -15,7 +15,7 @@ import lombok.Data;
 
 @Entity
 @Data
-@Table (name = "CONTACT_DTLS")
+@Table (name = "All_CONTACT_DTLS")
 public class Contact {
 	
 	@Id
