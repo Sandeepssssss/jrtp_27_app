@@ -11,7 +11,7 @@
 	</parent>
 	<groupId>in.ashokit</groupId>
 	<artifactId>in.Ashokit</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>1.0-RELEASE</version>
 	<name>in.Ashokit</name>
 	<description>This is jrtp mini project</description>
 	<url />
